@@ -2,6 +2,8 @@
 
 I am an accredited Associate Android Developer by Google with a passion for creating and Testing Android Apps.
 
+This is my official Website for Hosting Projects and Documentation.
+
 You can find me and view my Projects on, GitHub Pages [*mkpharez](https://github.com/mkpharez). 
 
 Feel free to collaborate with me on Code or as B/S Patner.

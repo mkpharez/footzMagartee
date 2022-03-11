@@ -8,17 +8,17 @@ Feel free to collaborate with me on Code or as B/S Patner.
 
 #### Projects Overview
 
-#Take an a journey of my Projects through the Repositoris Listed Below:
+# Take an a journey of my Projects through the Repositoris Listed Below:
 
-   ##**Android-CandyCodedApplication
+   ## **Android-CandyCodedApplication
 
-   ##**RecyclerViewTutorial2017
+   ## **RecyclerViewTutorial2017
 
-   ##**GADS2020-Chama-App
+   ## **GADS2020-Chama-App
 
-   ##**Kotlin-Coroutine-Examples
+   ## **Kotlin-Coroutine-Examples
 
-   ##**Android-MyMemory-Game
+   ## **Android-MyMemory-Game
 
 
 For more details see [*mkpharezOnGitHub](https://github.com/mkpharez).

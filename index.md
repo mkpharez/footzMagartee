@@ -1,32 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Kihingo Pharis Hub
 
-You can use the [editor on GitHub](https://github.com/mkpharez/footzMagartee/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am an accredited Associate Android Developer by Google with a passion for creating and Testing Android Apps.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can find me and view my Projects on, GitHub Pages[mkpharez](https://github.com/mkpharez). 
 
-### Markdown
+Feel free to collaborate with me on Code or as B/S Patner.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Projects Overview
 
-```markdown
-Syntax highlighted code block
+Take an a journey of my Projects through the Repositoris Listed Below:
 
-# Header 1
-## Header 2
-### Header 3
+Android-CandyCodedApplication
 
-- Bulleted
-- List
+RecyclerViewTutorial2017
 
-1. Numbered
-2. List
+GADS2020-Chama-App
 
-**Bold** and _Italic_ and `Code` text
+Kotlin-Coroutine-Examples
 
-[Link](url) and ![Image](src)
-```
+Android-MyMemory-Game
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+For more details see [mkpharezOnGitHub](https://github.com/mkpharez).
 
 ### Jekyll Themes
 

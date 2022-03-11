@@ -8,7 +8,7 @@ Feel free to collaborate with me on Code or as B/S Patner.
 
 #### Projects Overview
 
-# Take an a journey of my Projects through the Repositoris Listed Below:
+### Take an a journey of my Projects through the Repositoris Listed Below:
 
    ## **Android-CandyCodedApplication
 

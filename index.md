@@ -10,11 +10,11 @@ Feel free to collaborate with me on Code or as B/S Patner.
 
 ### Take an a journey of my Projects through the Repositoris Listed Below:
 
-    **Android-CandyCodedApplication
+    **Android-CandyCodedApplication**
 
-    **RecyclerViewTutorial2017
+    **RecyclerViewTutorial2017**
 
-    **GADS2020-Chama-App
+    **GADS2020-Chama-App**
 
     **Kotlin-Coroutine-Examples**
 

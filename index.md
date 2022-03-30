@@ -23,7 +23,7 @@ Feel free to collaborate with me on Code or as B/S Patner.
     **Android-MyMemory-Game**
 
 
-For more details see [*mkpharezOnGitHub](https://m.facebook.com/mk.pharez).
+For more details see [*mkpharezOnGitHub](https://github.com/mkpharez).
 
 ### Jekyll Themes
 

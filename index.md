@@ -15,9 +15,16 @@ Aspiring Software Engineer with demonstrated strengths in customer service, time
     **Android-MyMemory-Game**
 
 ### Education
-Kenyatta University Bachelor of Science Computer Science | Sep 2019 - Dec 2023  Studied Object-Oriented Programming, Data Structures & Algorithms
- Worked with Relational Database Systems  Worked with Interests Java Programming Language
+Kenyatta University Bachelor of Science Computer Science | Sep 2019 - Dec 2023 
+ Studied Object-Oriented Programming, Data Structures & Algorithms
+ Learnt Relational Database Systems with SQL
+ Learnt Java, C Programming Language.
 
 ### Support or Contact 
+Mobile:+254727807357
+E-mail:mkpharez@gmail.com
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Nairobi, Kenya.
+![Screenshot_20201019-201025](https://user-images.githubusercontent.com/65944009/161354376-3d4a1504-a370-4216-a155-b90122269911.png)
+![chess](https://user-images.githubusercontent.com/65944009/161354379-237c785e-a68d-4c18-a375-cbf1b4d058f9.png)
+![Screenshot_20201019-201018](https://user-images.githubusercontent.com/65944009/161354380-dd1b3a8f-06d2-477f-90d0-29e1c46960b8.png)

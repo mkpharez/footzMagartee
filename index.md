@@ -1,7 +1,6 @@
 ### Welcome to Kihingo Pharis Hub
 
-I am an accredited Associate Android Developer by Google with a passion for creating and Testing Android Apps.
-
+Aspiring Software Engineer with demonstrated strengths in customer service, time management and trend tracking. Good at troubleshooting Mobile-Solutions problems and building successful solutions. Excellent verbal and written communicator with strong background cultivating positive relationships and exceeding teamwork.
 This is my official Website for Hosting Projects and Documentation.
 
 You can find me and view my Projects on, GitHub Pages [*mkpharez](https://github.com/mkpharez). 
@@ -26,8 +25,7 @@ Feel free to collaborate with me on Code or as B/S Patner.
 For more details see [*mkpharezOnGitHub](https://github.com/mkpharez).
 
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mkpharez/footzMagartee/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Screen shots of m
 
 ### Support or Contact 
 

@@ -1,15 +1,8 @@
-### Welcome to Kihingo Pharis Hub
+### Hi there? Iam Muigai Kihingo. Welcome to my portfolio.
 
 Aspiring Software Engineer with demonstrated strengths in customer service, time management and trend tracking. Good at troubleshooting Mobile-Solutions problems and building successful solutions. Excellent verbal and written communicator with strong background cultivating positive relationships and exceeding teamwork.
-This is my official Website for Hosting Projects and Documentation.
-
-You can find me and view my Projects on, GitHub Pages [*mkpharez](https://github.com/mkpharez). 
-
-Feel free to collaborate with me on Code or as B/S Patner.
 
 #### Projects Overview
-
-### Take an a journey of my Projects through the Repositoris Listed Below:
 
     **Android-CandyCodedApplication**
 
@@ -21,11 +14,9 @@ Feel free to collaborate with me on Code or as B/S Patner.
 
     **Android-MyMemory-Game**
 
-
-For more details see [*mkpharezOnGitHub](https://github.com/mkpharez).
-
-### Jekyll Themes
-Screen shots of m
+### Education
+Kenyatta University Bachelor of Science Computer Science | Sep 2019 - Dec 2023  Studied Object-Oriented Programming, Data Structures & Algorithms
+ Worked with Relational Database Systems  Worked with Interests Java Programming Language
 
 ### Support or Contact 
 
